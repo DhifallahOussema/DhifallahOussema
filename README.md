@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussema DHIFALLAH</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate software engineer, MERN stack and Blockchain developper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhifallahoussema&label=Profile%20views&color=0e75b6&style=flat" alt="dhifallahoussema" /> </p>
 
@@ -36,7 +36,6 @@
 
 <span>
 <img src="https://expressjs.com/images/express-facebook-share.png" alt="drawing" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png" alt="drawing" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png" alt="drawing" width="50"/>
 <img src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" alt="drawing" width="50"/>

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/MagSgolK3ScWvtHAB4/giphy.gif" align="center" style="width: 100%" />
+<img src="https://cdn.coingape.com/wp-content/uploads/2022/08/09122141/ethereum-merge-2-1140x600-1.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -93,6 +93,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DhifallahOussema&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhifallahOussema&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 

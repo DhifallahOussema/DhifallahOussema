@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN stack, Blockchain and related technologies**
 
-- 📫 How to reach me **oussama.dhifallah@enis.tn**
+- 📫 How to reach me **oussemadhifallah1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
